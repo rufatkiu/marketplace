@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "message": "Hello World! Docs: https://docs.muetab.com/marketplace/introduction"
   },
-  "umami": true,
+  "umami": false,
   "chrome_extension": "chrome-extension://bngmbednanpcfochchhgbkookpiaiaid",
   "edge_extension": "chrome-extension://aepnglgjfokepefimhbnibfjekidhmja",
   "whale_extension": "chrome-extension://ecllekeilcmicbfkkiknfdddbogibbnc",
