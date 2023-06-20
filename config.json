@@ -1,7 +1,7 @@
 {
   "hello_world": {
     "version": "1.0.0",
-    "message": "Hello World! Docs: https://docs.muetab.com/marketplace/introduction"
+    "message": "Hello World!"
   },
   "umami": false,
   "chrome_extension": "chrome-extension://bngmbednanpcfochchhgbkookpiaiaid",
